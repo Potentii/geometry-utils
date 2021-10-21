@@ -1,0 +1,40 @@
+{
+  "name": "@potentii/geometry-utils",
+  "version": "1.0.0",
+  "description": "Geometry utilities",
+  "author": "Guilherme Reginaldo Ruella <potentii@gmail.com>",
+  "license": "MIT",
+  
+  "main": "main.mjs",
+  "type": "module",
+  
+  "scripts": {
+  },
+
+  "files": [
+    "main.mjs",
+    "libs/**/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "geometry",
+    "vector",
+    "vector2",
+    "rect",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potentii/geometry-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Potentii/geometry-utils/issues"
+  },
+  "homepage": "https://github.com/Potentii/geometry-utils#readme",
+  
+  "dependencies": {
+    "@potentii/math-utils": "1.0.1"
+  }
+  
+}
